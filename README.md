@@ -1,6 +1,6 @@
 # Lightweight Vulnerability Scanner Dashboard
 
-Sentinel Scan is a full-stack security dashboard for quick pre-commit or pre-release checks. It accepts either a public website URL or a GitHub repository link, runs a lightweight scan, and returns a clean risk classification report with prioritized findings.
+HTTPSOnly is a full-stack security dashboard for quick pre-commit or pre-release checks. It accepts either a public website URL or a GitHub repository link, runs a lightweight scan, and returns a clean risk classification report with prioritized findings.
 
 This project is intentionally safe and non-destructive. It performs passive HTTP checks, dependency version lookups, repository hygiene checks, and harmless reflected-parameter probes. It does not crawl aggressively, brute force, authenticate, exploit, or submit forms.
 
