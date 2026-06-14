@@ -225,10 +225,6 @@ CLIENT_ORIGIN=http://localhost:5173
 
 If you deploy the frontend and backend separately, set `CLIENT_ORIGIN` to the deployed frontend origin.
 
-## Notes for Extension
-
-Good next additions would be:
-
 - GitHub token support for higher API rate limits.
 - `package-lock.json`, `pnpm-lock.yaml`, and `poetry.lock` exact-version scanning.
 - OWASP ZAP integration for authorized deeper testing.
